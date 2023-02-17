@@ -24,8 +24,7 @@ Installation
   • name (VARCHAR)
   • email (VARCHAR)
   • country (VARCHAR)
-4. Modify the .java file in the src folder to include your MySQL database credentials.
-5. Build and run the project on Apache Tomcat.
+4. Build and run the project on Apache Tomcat.
 
 Usage
 Once the application is running, you can access it by navigating to http://localhost:8080/usermanagement in your web browser.
